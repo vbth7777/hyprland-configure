@@ -11,7 +11,7 @@ Before using this configuration, you must install the `dots-hyprland` repository
 Once you have installed the `dots-hyprland` repository, you can clone this repository into your `~/.config/hypr` directory.
 
 ```bash
-git clone https://github.com/your-username/your-hyprland-config ~/.config/hypr
+git clone https://github.com/vbth7777/hyprland-configure ~/.config/hypr
 ```
 
 ## Keybindings
